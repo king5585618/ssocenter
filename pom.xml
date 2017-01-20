@@ -22,12 +22,10 @@
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
         <java.version>1.8</java.version>
         <javaee.version>7.0</javaee.version>
-        <luffy.version>1.11-SNAPSHOT</luffy.version>
         <spring.version>4.2.2.RELEASE</spring.version>
         <spring.data.rest.version>2.4.0.RELEASE</spring.data.rest.version>
         <maven.compiler.plugin.version>3.1</maven.compiler.plugin.version>
         <fasterxml.jackson.version>2.6.1</fasterxml.jackson.version>
-        <lib.version>1.8</lib.version>
     </properties>
 
     <dependencyManagement>
